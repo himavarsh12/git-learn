@@ -1,1 +1,3 @@
-print("hello! world")
+s="hima"
+reserved_string=s[::-1]
+print(reversed_string)
